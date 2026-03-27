@@ -7,7 +7,8 @@
 - Earn $5k MRR
 - Launch something small every month for 6 months
 - Create a visual journal
-
+- ~~Get a 3d Printer~~ and Print a working Transformer
+- 
 ### 🧠 Learn & Grow
 - Read books and make notes
 - Complete a Three.js course
