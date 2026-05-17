@@ -1,19 +1,12 @@
 # my-public-bucketlist
 
 ### 🚀 Build & Launch
-- Develop a Three.js based game called Mini Tanks
 - Get featured on Product Hunt
 - Reach 100 paying users for any product
-- Earn $5k MRR
+- Reach $5k MRR
 - Launch something small every month for 6 months
 - Create a visual journal
 - ~~Get a 3d Printer~~ and Print a working Transformer
-- 
-### 🧠 Learn & Grow
-- Read books and make notes
-- Complete a Three.js course
-- Analyze 10 successful indie games
-- Give a talk or share your journey
 
 ### 🌍 Explore & Experience
 - Visit Japan 🇯🇵
